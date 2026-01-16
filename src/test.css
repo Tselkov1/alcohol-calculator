@@ -1,0 +1,10 @@
+body {
+    background: red;
+    color: white;
+}
+
+.test {
+    background: blue;
+    padding: 20px;
+    border-radius: 10px;
+}
